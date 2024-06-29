@@ -1,0 +1,20 @@
+18
+normal fire water electric grass ice fighting poison ground flying psychic bug rock ghost dragon dark steel fairy
+normal ............-0..-.
+fire .--.**.....*-.-.*.
+water .*-.-...*...*.-...
+electric ..*--...0*....-...
+grass .-*.-..-*-.-*.-.-.
+ice .--.*-..**....*.-.
+fighting *....*.-.---*0-**-
+poison ....*..--...--..0*
+ground .*.*-..*.0.-*...*.
+flying ...-*.*....*-...-.
+psychic ......**..-....0-.
+bug .-..*.--.-*..-.*--
+rock .*...*-.-*.*....-.
+ghost 0.........*..*.-..
+dragon ..............*.-0
+dark ......-...*..*.-.-
+steel .---.*......*...-*
+fairy .-....*-......**-.
