@@ -15,6 +15,6 @@ Finally, I decided to also add a mode that would output the type combo with the 
 Input file with the name "typeChart.txt" is of this exact format; line 1 is the number of types, line 2 is the type names in a space seperated format
 lines 3 through the end of file are the type matchups for a given type. Any specific line starts with the name of a [attacking] type, followed by a space,
 followed by its matchup with every other type. In particular, these matchups are shown in a sequence of chars, with . representing neutral, * representing super effective,
-- representing not very effective, and 0 representing immunity. These character strings have no spaces between characters, and the assumption is that the order is the same as the order
+\- representing not very effective, and 0 representing immunity. These character strings have no spaces between characters, and the assumption is that the order is the same as the order
 the names were given on line 2; for example, if water is index 2 on line 2, then to see the effectiveness of electric on water, we would go to the line
 beginning with electric, then go to the character with index 2 among the effectiveness string (in this case we would see a star, as electric is super effective against water)
